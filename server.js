@@ -1,5 +1,5 @@
 // const mongoose = require('mongoose');
-const io = require("socket.io")(3000, {
+const io = require("socket.io")(3100, {
     cors: {
       origin: "*",
     },
